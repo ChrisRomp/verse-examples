@@ -10,7 +10,9 @@ applyTo: '**/*.verse, **/*.uefn'
 |------|-------------|-------------|
 | [verse-patterns.md](../../.verseRules/verse-patterns.md) | First check for implementation | Comprehensive patterns for Verse/UEFN development |
 | [verse-common-errors.md](../../.verseRules/verse-common-errors.md) | Before implementing new features | Common errors and their solutions |
+| [verification-checklist.md](../../.verseRules/verification-checklist.md) | Before committing code | Checklist to verify code quality and standards |
 | [verse-reference.md](../../.verseRules/verse-reference.md) | Language reference | Complete Verse language reference |
+| [verse-code-database.md](../../.verseRules/verse-code-database.md) | Searching for examples | Database of code snippets and examples |
 
 ## File Reference Order
 
